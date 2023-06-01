@@ -21,7 +21,7 @@ Written with Alexander Canute, Emma Culver, & Ashley Mathew; December 12th, 2022
 
 Explores the history of strikes in American professional sports and the research question "To what extent does unity among players and revenue loss for the owners affect player success in the American Sports Labor Movement?”
 
-Inspired by sportswriter Jon Bois' 2017 documentary *Randall Cunningham Seizes the Means of Production* produced by [Secret Base](https://www.youtube.com/@SecretBaseSBN "YouTube") about the 1987 Philadelphia Eagles and the 1987 NFLPA Strike, which can be found [here](https://www.youtube.com/watch?v=ZymSrDfLhW8 "Secret Base")
+Inspired by sportswriter Jon Bois' 2017 documentary *Randall Cunningham Seizes the Means of Production* produced by Secret Base about the 1987 Philadelphia Eagles and the 1987 NFLPA Strike, which can be found [here](https://www.youtube.com/watch?v=ZymSrDfLhW8 "Secret Base")
 
 Written May 3rd, 2022 for *Social Movements & Policital Conflict*.
 
