@@ -5,7 +5,7 @@ This repository contains several papers written during my time at Syracuse, Univ
 
 ### NATO and the Pacific: Extending Mutual Defense Beyond the North Atlantic
 
-This paper uses Brian Campbell’s explanation of Chinese attitudes toward Taiwan as well as historical context and comparisons to Ukraine, Georgia, and Kosovo to to explore whether the conditions which would make conflict stemming from NATO expansion talks likely are present in Japan, South Korea, Australia, and New Zealand, and posit that The United States should push to reform the Washington Treaty by removing geographic limits on mutual defense to incorporate existing NATO lands and longstanding Asian-Pacific allies into NATO to increase the likelihood of continued peace in the region and strengthen American global influence.
+This paper uses Brian Campbell’s explanation of Chinese attitudes toward Taiwan as well as historical context and comparisons to Ukraine, Georgia, and Kosovo to to explore whether the conditions which would make conflict stemming from NATO expansion talks likely are present in Japan, South Korea, and Australia, and posit that The United States should push to reform the Washington Treaty by removing geographic limits on mutual defense to incorporate existing NATO lands and longstanding Asian-Pacific allies into NATO to increase the likelihood of continued peace in the region and strengthen American global influence.
 
 Written May 13th, 2022 for *Contemporary Political-Military Affairs in the North Atlantic Area*.
 
